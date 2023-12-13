@@ -1,5 +1,6 @@
+#                           Site Desenvolvido - API com JavaScript, Express, PG e TypeORM 
 #                           ts-orm-rv-api e o vue-route-cs 
-Trabalho desenvolvido em aula, desafio proposto pelo professor Telmo.
+Trabalho desenvolvido em aula, no IFSul - Câmpus Passo Fundo em 2023, desafio proposto pelo professor Telmo.
 
 [![Vue][Vue.js]][Vue-url]
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
