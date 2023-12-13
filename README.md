@@ -13,7 +13,7 @@ Trabalho desenvolvido em aula, desafio proposto pelo professor Telmo.
 
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto  
-Projeto de CRUD, com autenticação.
+Este repositório contém o código-fonte de uma aplicação web construída como uma API utilizando JavaScript, Express, PG (PostgreSQL) e TypeORM. A aplicação fornece operações CRUD (Create, Read, Update, Delete) e foi desenvolvida com o framework Vue.js para o frontend e a biblioteca Bootstrap para o estilo. <br>
 Problema: Sistema Revenda de Veiculos. <br>
 Objetivo: Projetar um sistema para gerenciar uma revenda de veiculos, para que o vendedor/funcionário consiga fazer as alterações necessárias como: adicionar, editar e remover um veiculo, um novo comprador, fazendo seu cadastro, e uma nova venda.
 
