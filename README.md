@@ -19,18 +19,16 @@ Trabalho desenvolvido em aula, no IFSul - Câmpus Passo Fundo em 2023, desafio p
 𝗢𝗯𝗷𝗲𝘁𝗶𝘃𝗼: Projetar um sistema para gerenciar uma revenda de veiculos, para que o vendedor/funcionário consiga fazer as alterações necessárias como: adicionar, editar e remover um veiculo, um novo comprador, fazendo seu cadastro, e uma nova venda.
 
 
-<!-- IMAGENS -->
+<!-- IMAGENS 
 ## IMAGENS DO SISTEMA WEB
 CRUD
 
 <img width="458" alt="Screenshot 2023-12-12 101339" src="https://github.com/AlanHoff5/vue-rote-ts-orm/assets/77331153/7d3d9d08-ce59-411f-b415-c1ad8bbb5deb">
-<img width="458" alt="Screenshot 2023-12-12 101339" src="https://github.com/Campigotto07/vue-rote-ts-orm/assets/77331153/7d3d9d08-ce59-411f-b415-c1ad8bbb5deb">
-<img src="URL_da_Imagem" alt="../file:///C:/Users/Gabriel%20Campigotto/Pictures/Screenshots/autenticação.jpg">
 
 LOGIN
 
 <img width="845" alt="Screenshot 2023-12-12 101443" src="https://github.com/AlanHoff5/vue-rote-ts-orm/assets/77331153/bbe17e71-8620-4ded-88bd-273b5d6af665">
-
+-->
 
 ### Instalação
 
