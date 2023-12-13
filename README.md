@@ -24,6 +24,7 @@ Trabalho desenvolvido em aula, no IFSul - Câmpus Passo Fundo em 2023, desafio p
 CRUD
 
 <img width="458" alt="Screenshot 2023-12-12 101339" src="https://github.com/AlanHoff5/vue-rote-ts-orm/assets/77331153/7d3d9d08-ce59-411f-b415-c1ad8bbb5deb">
+<img width="458" alt="Screenshot 2023-12-12 101339" src="https://github.com/Campigotto07/vue-rote-ts-orm/assets/77331153/7d3d9d08-ce59-411f-b415-c1ad8bbb5deb">
 
 LOGIN
 
