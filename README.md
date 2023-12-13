@@ -29,21 +29,11 @@ LOGIN
 <img width="845" alt="Screenshot 2023-12-12 101443" src="https://github.com/AlanHoff5/vue-rote-ts-orm/assets/77331153/bbe17e71-8620-4ded-88bd-273b5d6af665">
 
 
-
-
-### Pré requisitos
-
-Instalar os pacotes NPM
-* npm
-  ```sh
-  npm install 
-  ```
-
 ### Instalação
 
 1. Clone o repositório
    ```sh
-   git clone https://github.com/AlanHoff5/vue-rote-ts-orm.git
+   git clone https://github.com/Campigotto07/vue-route-cs---ts_orm_rv_api_2023.git
    ```
 2. Instalar os pacotes NPM 
    ```sh
@@ -78,7 +68,7 @@ Gabriel Lauer Campigotto - https://www.linkedin.com/in/gabriel-lauer-campigotto-
 campigottogabriel2@gamil.com -   [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](campigottogabriel2@gmail.com)
 
 
-Project Link: https://github.com/AlanHoff5/vue-rote-ts-orm.git
+Project Link: https://github.com/Campigotto07/vue-route-cs---ts_orm_rv_api_2023.git
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
